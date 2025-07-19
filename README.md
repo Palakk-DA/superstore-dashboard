@@ -19,4 +19,4 @@ This project is a basic dashboard built in Microsoft Excel using the Superstore 
 ---
 
 ### Preview:
-Coming soon: screenshots of the dashboard!
+Screenshot of the image in the repository!
